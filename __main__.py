@@ -44,6 +44,4 @@ def post_attend():
 
 
 if __name__ == '__main__':
-    print(os.getenv('bid'))
-    print(os.getenv('gid'))
-    # post_attend()
+    post_attend()
